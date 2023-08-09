@@ -1,0 +1,19 @@
+ body {
+       
+       font-style:normal;
+       background-color:aqua;
+       color:black;
+       border-style: dashed;
+      
+    }
+    
+   * {
+      margin: 7px;
+      padding: 7px;
+      
+   }
+   
+
+
+   
+
